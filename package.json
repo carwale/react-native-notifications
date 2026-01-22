@@ -60,7 +60,7 @@
     "detox": "^19.4.2",
     "github-release-notes": "https://github.com/yogevbd/github-release-notes/tarball/e601b3dba72dcd6cba323c1286ea6dd0c0110b58",
     "jest": "24.9.0",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "metro-react-native-babel-preset": "0.66.2",
     "react": "17.0.2",
     "react-autobind": "1.0.6",
